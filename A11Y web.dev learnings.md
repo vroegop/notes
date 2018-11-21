@@ -42,7 +42,7 @@ Use the A11Y principles wisely.
 Users with temporary or permanent motor impairments cannot always use a mouse or touch interface.
 To allow those users access to your content, a good strategy is to use keyboard navigation.
 
-# Focus and the tab order
+## Focus and the tab order
 
 A focused element is the element the user is currently interacting with. That might be any input element, button or link.
 
